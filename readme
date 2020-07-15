@@ -1,10 +1,5 @@
 Online Assesment
-Main Branch
-
 FrontEnd Branch
-BackEnd Branch
-DBEnd Branch
 
-
-Api - https://onlineassessmentwebapi.azurewebsites.net/api/roles
-ApplicationUrl :- http://nykassessment.azurewebsites.net/
+For excel install ----
+npm install xlsx
